@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_forecast">10-day forecast</string>
+    <string name="pressure">Pressure</string>
+    <string name="powered_by">Powered by Open Weather</string>
+    <string name="temparature_desc">Temp Value</string>
+
+    <string name="n">N ⇑</string>
+    <string name="ne">NE ⇗</string>
+    <string name="e">E ⇒</string>
+    <string name="se">SE ⇘</string>
+    <string name="s">S ⇓</string>
+    <string name="sw">SW ⇙</string>
+    <string name="w">W ⇐</string>
+    <string name="nw">NW ⇖</string>
+    <string name="weather_forecast_title">Weather Forecast</string>
+    <string name="hint">Tap to toggle between °C and F</string>
+    <string name="edittext_place">Type a place</string>
+    <string name="search_place">Enter a place</string>
+    <string name="search">SEARCH</string>
+    <string name="app_icon_image">app icon image</string>
+    <string name="default_city">London</string>
+    <string name="place">place</string>
+    <string name="tag">tag</string>
+<!--    <string name="app_id">ebfcac32bda131ed5a160f2757938396</string>-->
+<!--    <string name="decimal_format_pattern">0</string>-->
+    <string name="url">https://api.openweathermap.org/</string>
+    <string name="hour">hour</string>
+    <string name="simple_date_format">EEE, MMM dd</string>
+    <string name="errode_code">\"Code : \"</string>
+    <string name="simple_date_format1">E, MMM dd, yyyy</string>
+    <string name="hour_format">HH</string>
+    <string name="wind_speed">k♦m/h</string>
+    <string name="humidity_unit">%</string>
+    <string name="pressure_unit">hPa</string>
+</resources>

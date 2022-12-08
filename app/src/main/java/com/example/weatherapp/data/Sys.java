@@ -1,0 +1,37 @@
+package com.example.weatherapp.data;
+
+/**
+ * Aylin Hosseinchi
+ *
+ * This is a data class used to store the data retrieved from API call
+ */
+
+public class Sys {
+
+    private int type;
+    private int id;
+    private String country;
+    private long sunrise;
+    private long sunset;
+
+    public int getType() {
+        return type;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public long getSunrise() {
+        return sunrise;
+    }
+
+    public long getSunset() {
+        return sunset;
+    }
+}
+
